@@ -1,6 +1,6 @@
 #!/bin/bash
  
-WEB_PATH='/home/wwwroot/www.xiaobaikm.xin/client'
+WEB_PATH='/home/wwwroot/Vnshop/client'
 WEB_USER='root'
 WEB_USERGROUP='root'
  
